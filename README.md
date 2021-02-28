@@ -1,5 +1,7 @@
 # Django Snacks
 
+PR Link: https://github.com/gracerosemary/django-snacks/pull/1
+
 **Author**: Grace Choi
 **Version**: 1.0.0 
 
