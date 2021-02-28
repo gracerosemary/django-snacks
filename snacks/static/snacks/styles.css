@@ -1,0 +1,13 @@
+body {
+    background: black 
+url("images/eat.jpg") no-repeat;
+    background-size: 800px 400px;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+    font-family: "Andale Mono", monospace;
+}
+
+a {
+    color: white;
+}
