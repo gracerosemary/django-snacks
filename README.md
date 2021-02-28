@@ -19,17 +19,17 @@ Create web site in Django with 2 pages
 4. Setup Server
 
 ## Helpful Commands
-$ mkdir django_demo
-$ cd django_demo
-$ poetry init -n
-$ poetry add django
-$ tree
-$ poetry shell
-$ django-admin startproject django_demo
-$ python manage.py runserver
-$ python manage.py migrate
-$ python manage.py startapp demo
-$ python manage.py test
+$ mkdir django_demo  
+$ cd django_demo  
+$ poetry init -n  
+$ poetry add django  
+$ tree  
+$ poetry shell  
+$ django-admin startproject django_demo  
+$ python manage.py runserver  
+$ python manage.py migrate  
+$ python manage.py startapp demo  
+$ python manage.py test  
 
 ## Architecture
 Django, Poetry
