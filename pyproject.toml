@@ -6,6 +6,7 @@ authors = ["Grace Choi <choi.g.330@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Django = "^3.1.7"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
